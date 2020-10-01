@@ -23,3 +23,9 @@ Step 3: Normalizing and preprocessing of data
 Step 4: Vectorize input data based on all words with at least 100 occurrences
 
 Step 5: Train SVM on training data
+
+
+Coursera Machine Learning
+Programming Language: Octave
+Professor: Andrew Ng
+
